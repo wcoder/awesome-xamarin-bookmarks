@@ -8,6 +8,9 @@
 ## Материалы
 * [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/)
 
+### Линковщик
+* [Использование линковщика в проектах Xamarin](https://xamdev.ru/linking-in-xamarin/)
+
 ## Блоги/переводы
 * [В помощь мобильному разработчику](https://xamdev.ru/)
 * [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
