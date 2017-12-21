@@ -10,6 +10,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [UI](#ui)
   - [Architecture](#architecture)
   - [Performance](#performance)
+  - [Background services](#background-services)
   - [Network](#network)
   - [Profiling](#profiling)
   - [Binding Libraries](#binding-libraries)
@@ -37,6 +38,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### Performance
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
 * [Best Practices for Android Performance](https://developer.android.com/training/best-performance.html)
+
+### Background services
+* [Periodic background service with Xamarin](https://github.com/wcoder/PeriodicBackgroundService)
 
 ### Network
 * [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications)
