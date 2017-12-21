@@ -2,6 +2,9 @@
 
 Hand-picked bookmarks of interesting (must have) links for Xamarin developers.
 
+Additional lists in other languages:  [Русский](/README.ru.md)
+
+---
 
 * [Articles](#articles)
   - [UI](#ui)
@@ -20,7 +23,7 @@ Hand-picked bookmarks of interesting (must have) links for Xamarin developers.
   - [Live Reload](#live-reload)
 * [UI Examples](#ui-examples)
 
-
+---
 
 ## Articles
 
