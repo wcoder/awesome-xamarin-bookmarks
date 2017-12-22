@@ -11,6 +11,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [Architecture](#architecture)
   - [Performance](#performance)
   - [Background services](#background-services)
+  - [Bluetooth](#bluetooth)
   - [Network](#network)
   - [Profiling](#profiling)
   - [Binding Libraries](#binding-libraries)
@@ -41,6 +42,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Background services
 * [Periodic background service with Xamarin](https://github.com/wcoder/PeriodicBackgroundService)
+
+### Bluetooth
+* [10 Tips About Bluetooth LE Development](http://www.xam-consulting.com/10-tips-about-bluetooth-le-development/)
 
 ### Network
 * [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications)
