@@ -90,6 +90,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 <blockquote>Keep up with the latest in mobile development with the official Xamarin podcast. Join your hosts Pierce Boggan and James Montemagno as they discuss the latest and greatest in native cross-platform mobile development in C# with Xamarin.</blockquote>
 </details>
 
+## Newsletters
+* [Weekly Xamarin Newsletter](http://weeklyxamarin.com/) - The best Xamarin development links, every Friday
+
 ## Tools
 
 ### Live Reload
