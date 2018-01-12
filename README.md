@@ -12,6 +12,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [Performance](#performance)
   - [Background services](#background-services)
   - [Bluetooth](#bluetooth)
+  - [Media](#media)
   - [Network](#network)
   - [Profiling](#profiling)
   - [Binding Libraries](#binding-libraries)
@@ -45,6 +46,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Bluetooth
 * [10 Tips About Bluetooth LE Development](http://www.xam-consulting.com/10-tips-about-bluetooth-le-development/)
+
+### Media
+* [Delivering Rich Media Experiences with the Xamarin.Forms Video Player](https://blog.xamarin.com/delivering-rich-media-experiences-xamarin-forms-video-player/)
 
 ### Network
 * [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications)
