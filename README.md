@@ -9,6 +9,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Articles](#articles)
   - [UI](#ui)
   - [Architecture](#architecture)
+  - [MVVM](#mvvm)
   - [Performance](#performance)
   - [Background services](#background-services)
   - [Bluetooth](#bluetooth)
@@ -37,6 +38,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### Architecture
 * [Cross-Platform Architecture](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_2_-_architecture/)
 * [Xamarin Forms Architectural Guidance](https://xamarinhelp.com/xamarin-forms-architectural-guidance/)
+
+### MVVM
+* [Should I Use A Xamarin.Forms MVVM Framework?](https://xamarinhelp.com/use-xamarin-forms-mvvm-framework/)
 
 ### Performance
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
