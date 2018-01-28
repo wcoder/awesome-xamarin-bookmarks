@@ -17,6 +17,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [Profiling](#profiling)
   - [Binding Libraries](#binding-libraries)
   - [Linker](#linker)
+  - [Proguard](#proguard)
   - [Plugins](#plugins)
 * [Series of articles](#series-of-articles)
 * [Videos](#videos)
@@ -62,6 +63,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Linker
 * [Linker Analyzer](https://www.jon-douglas.com/2017/09/22/linker-analyzer/)
+
+### Proguard
+* [Proguard](https://www.jon-douglas.com/2016/11/22/xamarin-android-proguard/)
 
 ### Plugins
 * [Creating Platform Plugins](https://github.com/mattleibow/CreatingPlatformPlugins)
