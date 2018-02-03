@@ -26,6 +26,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
   - [Live Reload](#live-reload)
+  - [UI Inspectors](#ui-inspectors)
 * [UI Examples](#ui-examples)
 
 ---
@@ -112,6 +113,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [LiveXAML](http://www.livexaml.com/)
 * [Gorilla Player](http://gorillaplayer.com/)
 * [Xamarin Live Player](https://www.xamarin.com/live)
+
+### UI Inspectors
+* [UI Sleuth](https://github.com/michaeled/uisleuth) - A Xamarin.Forms Inspector
 
 ## UI Examples
 * [Xamarin Forms UI Snippets](https://snppts.io/latest)
