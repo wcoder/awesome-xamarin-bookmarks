@@ -18,6 +18,9 @@
 * [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
 * [Материалы по тегу Xamarin](https://wcoder.github.io/tags/#xamarin)
 
+## Видео
+* [Видео курс "Что такое Xamarin.Forms"](https://itvdn.com/ru/video/xamarin)
+
 ## Новости
 * [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
 
