@@ -46,6 +46,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### Performance
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
 * [Best Practices for Android Performance](https://developer.android.com/training/best-performance.html)
+* [Xamarin.Forms Performance on Android](https://jonathanpeppers.com/Blog/xamarin-forms-performance-on-android)
 
 ### Background services
 * [Periodic background service with Xamarin](https://github.com/wcoder/PeriodicBackgroundService)
@@ -55,6 +56,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Media
 * [Delivering Rich Media Experiences with the Xamarin.Forms Video Player](https://blog.xamarin.com/delivering-rich-media-experiences-xamarin-forms-video-player/)
+* [Xamarin Forms Android – using ExoPlayer in your app](http://www.pshul.com/2018/02/09/xamarin-forms-android-using-exoplayer-in-your-app/)
 
 ### Network
 * [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications)
