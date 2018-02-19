@@ -27,7 +27,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Tools](#tools)
   - [Live Reload](#live-reload)
   - [UI Inspectors](#ui-inspectors)
-* [UI Examples](#ui-examples)
+* [Examples](#examples)
+  - [UI](#ui-examples)
+  - [Architecture](#architecture-examples)
 
 ---
 
@@ -119,10 +121,14 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### UI Inspectors
 * [UI Sleuth](https://github.com/michaeled/uisleuth) - A Xamarin.Forms Inspector
 
-## UI Examples
+## Examples
+
+### UI Examples
 * [Xamarin Forms UI Snippets](https://snppts.io/latest)
 * [Xamarin.Forms goodlooking UI samples](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI)
 
+### Architecture Examples
+* [Order King architecture demo for Xamarin.Forms - Binwell](https://github.com/Binwell/Order-King-Mobile-Core)
 
 ## Contributing
 We are happy to receive Pull Requests adding a new link to the amazing material.
