@@ -20,6 +20,7 @@
 
 ## Видео
 * [Видео курс "Что такое Xamarin.Forms"](https://itvdn.com/ru/video/xamarin)
+* [[Xamarin Day 2018] Записи докладов - YouTube](https://www.youtube.com/playlist?list=PLVDsxiCH_PqQm01GHH7PSFTmrM2_VIUfI)
 
 ## Новости
 * [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
