@@ -62,6 +62,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Network
 * [Improving HTTP Performance in Xamarin Applications](http://jonathanpeppers.com/Blog/improving-http-performance-in-xamarin-applications)
+* [The Many Flavors of HttpClient](https://kerry.lothrop.de/httpclient-flavors/)
 
 ### Profiling
 * [Performance Profiling Your Xamarin Apps](https://visualstudiomagazine.com/articles/2015/12/01/xamarin-apps.aspx)
