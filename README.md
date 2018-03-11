@@ -111,6 +111,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ## Newsletters
 * [Weekly Xamarin Newsletter](http://weeklyxamarin.com/) - The best Xamarin development links, every Friday
+* [Xamarin.Forms Monthly Newsletter](https://us13.campaign-archive.com/home/?u=9bc39dc111f08d2a130409419&id=68a7cafa60)
 
 ## Tools
 
