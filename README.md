@@ -37,6 +37,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### UI
 * [Navigation Bar Customization in Xamarin Forms](https://www.xamboy.com/2017/12/06/navigation-bar-customization-in-xamarin-forms/)
+* [Custom Fonts with Xamarin.Forms Revisited](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/custom-fonts-with-xamarin-forms-revisited/)
 
 ### Architecture
 * [Cross-Platform Architecture](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_2_-_architecture/)
