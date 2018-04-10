@@ -99,7 +99,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Xamarin.Android Tutorials - Joe Rock](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l)
 
 ## Books
+* [Creating Mobile Apps with Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
+* [Enterprise Application Patterns using Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/enterprise-application-patterns/)
 * [Xamarin.Forms Kickstarter](http://www.xforms-kickstarter.com/)
+* [more...](https://www.amazon.com/s/?field-keywords=Xamarin)
 
 ## Podcasts
 <details><summary>Gone Mobile - http://www.gonemobile.io/</summary>
