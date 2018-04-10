@@ -35,6 +35,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ---
 
 ## Articles
+* [C# Corner: Xamarin](https://www.c-sharpcorner.com/technologies/xamarin)
 
 ### UI
 * [Navigation Bar Customization in Xamarin Forms](https://www.xamboy.com/2017/12/06/navigation-bar-customization-in-xamarin-forms/)
@@ -97,6 +98,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Xamarin Show on Channel9](https://channel9.msdn.com/Shows/XamarinShow)
 * [Houssem Dellai on YouTube](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ)
 * [Xamarin.Android Tutorials - Joe Rock](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l)
+* [Xamarin University - Youtube](https://www.youtube.com/channel/UCykEmj8H8O0aE6QB1965XCg/videos)
+* [Xamarin University Free Lectures](https://university.xamarin.com/lecturesmenu)
+* [Xamarin Android Tutorial - Beginners - EDMT Dev- YouTube](https://www.youtube.com/playlist?list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8)
+* [Xamarin Android Tutorial - Advanced - EDMT Dev- YouTube](https://www.youtube.com/playlist?list=PLaoF-xhnnrRV92Y9HlqqutcwwRYm1LjP7)
 
 ## Books
 * [Creating Mobile Apps with Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/)
