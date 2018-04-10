@@ -27,6 +27,7 @@
 
 ## Сообщества
 * [Xamarin Developers - Telegram](https://t.me/xamarin_russia)
+* [IT Shark Mobile Xamarin](https://github.com/it-shark-pro/mobile-xamarin)
 
 ## Помощь
 * [Xamarin - Toster](https://toster.ru/tag/xamarin/questions)
