@@ -20,6 +20,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [Linker](#linker)
   - [Proguard](#proguard)
   - [Plugins](#plugins)
+  - [Under the Hood](#under-the-hood)
 * [Series of articles](#series-of-articles)
 * [Videos](#videos)
 * [Books](#books)
@@ -81,6 +82,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Plugins
 * [Creating Platform Plugins](https://github.com/mattleibow/CreatingPlatformPlugins)
+
+### Under the Hood
+* [Xamarin.iOS Under the Hood: Calling Objective-C from C#](https://jonathanpeppers.com/Blog/xamarin-ios-under-the-hood-calling-objective-c-from-csharp)
 
 ## Series of articles
 * [52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin)
