@@ -25,12 +25,14 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Videos](#videos)
 * [Books](#books)
 * [Podcasts](#podcasts)
+* [Community](#community)
 * [Tools](#tools)
   - [Live Reload](#live-reload)
   - [UI Inspectors](#ui-inspectors)
 * [Examples](#examples)
   - [UI](#ui-examples)
   - [Architecture](#architecture-examples)
+* [More](#more)
 
 ---
 
@@ -126,6 +128,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Weekly Xamarin Newsletter](http://weeklyxamarin.com/) - The best Xamarin development links, every Friday
 * [Xamarin.Forms Monthly Newsletter](https://us13.campaign-archive.com/home/?u=9bc39dc111f08d2a130409419&id=68a7cafa60)
 
+## Community
+* [Xamarin Chat - Slack](https://xamarinchat.slack.com/)
+* [Xamarin Forums](https://forums.xamarin.com/)
+
 ## Tools
 
 ### Live Reload
@@ -144,6 +150,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Architecture Examples
 * [Order King architecture demo for Xamarin.Forms - Binwell](https://github.com/Binwell/Order-King-Mobile-Core)
+
+## More
+* [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
+* [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents)
 
 ## Contributing
 We are happy to receive Pull Requests adding a new link to the amazing material.
