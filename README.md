@@ -50,6 +50,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### MVVM
 * [Should I Use A Xamarin.Forms MVVM Framework?](https://xamarinhelp.com/use-xamarin-forms-mvvm-framework/)
+* [Xamarin.Forms ListView Advanced Guide With MVVM](https://doumer.me/xamarin-forms-listview-advanced-guide-with-mvvm/)
 
 ### Performance
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
