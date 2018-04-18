@@ -29,6 +29,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Tools](#tools)
   - [Live Reload](#live-reload)
   - [UI Inspectors](#ui-inspectors)
+  - [Android Tools](#android-tools)
 * [Examples](#examples)
   - [UI](#ui-examples)
   - [Architecture](#architecture-examples)
@@ -143,6 +144,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### UI Inspectors
 * [UI Sleuth](https://github.com/michaeled/uisleuth) - A Xamarin.Forms Inspector
+
+### Android Tools
+* [ADB Commands](https://medium.com/@filipe.batista/adb-commands-part-i-60d35e9d8515)
 
 ## Examples
 
