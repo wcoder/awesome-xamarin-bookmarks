@@ -21,6 +21,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [Proguard](#proguard)
   - [Plugins](#plugins)
   - [Under the Hood](#under-the-hood)
+  - [Features](#features)
 * [Series of articles](#series-of-articles)
 * [Videos](#videos)
 * [Books](#books)
@@ -91,6 +92,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Under the Hood
 * [Xamarin.iOS Under the Hood: Calling Objective-C from C#](https://jonathanpeppers.com/Blog/xamarin-ios-under-the-hood-calling-objective-c-from-csharp)
+
+### Features
+* [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/)
 
 ## Series of articles
 * [52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin)
