@@ -7,6 +7,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ---
 
 * [Articles](#articles)
+  - [Setup](#setup)
   - [UI](#ui)
   - [Architecture](#architecture)
   - [MVVM](#mvvm)
@@ -40,6 +41,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ## Articles
 * [C# Corner: Xamarin](https://www.c-sharpcorner.com/technologies/xamarin)
+
+### Setup
+
+* [Setting up Xamarin.Android on Linux](https://github.com/0xFireball/xamarin-android-linux)
 
 ### UI
 * [Navigation Bar Customization in Xamarin Forms](https://www.xamboy.com/2017/12/06/navigation-bar-customization-in-xamarin-forms/)
