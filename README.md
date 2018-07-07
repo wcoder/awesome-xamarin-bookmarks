@@ -171,6 +171,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ## More
 * [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents)
+* [Open-Source Xamarin Apps](https://github.com/wcoder/open-source-xamarin-apps)
 
 ## Contributing
 We are happy to receive Pull Requests adding a new link to the amazing material.
