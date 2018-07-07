@@ -169,9 +169,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Order King architecture demo for Xamarin.Forms - Binwell](https://github.com/Binwell/Order-King-Mobile-Core)
 
 ## More
-* [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
-* [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents)
-* [Open-Source Xamarin Apps](https://github.com/wcoder/open-source-xamarin-apps)
+* [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) - A list of interesting libraries/tools for Xamarin.
+* [Xamarin Bindings](https://github.com/aloisdeniel/Xamarin.Bindings) - A list of existing Xamarin binding libraries.
+* [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents) - A list of open source components.
+* [Open Source Xamarin Apps](https://github.com/wcoder/open-source-xamarin-apps) - A list of open source Xamarin apps.
 
 ## Contributing
 We are happy to receive Pull Requests adding a new link to the amazing material.
