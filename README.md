@@ -11,6 +11,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [UI](#ui)
   - [Architecture](#architecture)
   - [MVVM](#mvvm)
+  - [Security](#security)
   - [Performance](#performance)
   - [Background services](#background-services)
   - [Bluetooth](#bluetooth)
@@ -58,6 +59,9 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### MVVM
 * [Should I Use A Xamarin.Forms MVVM Framework?](https://xamarinhelp.com/use-xamarin-forms-mvvm-framework/)
 * [Xamarin.Forms ListView Advanced Guide With MVVM](https://doumer.me/xamarin-forms-listview-advanced-guide-with-mvvm/)
+
+### Security
+* [Protecting your users with certificate pinning](https://basdecort.com/2018/07/18/protecting-your-users-with-certificate-pinning/)
 
 ### Performance
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
