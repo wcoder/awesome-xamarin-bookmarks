@@ -106,6 +106,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 ### Features
 * [Taking a Screenshot in Xamarin.Forms](https://xamarinhelp.com/taking-a-screenshot-in-xamarin-forms/)
 * [Xamarin and Java Processes (root)](https://blog.ostebaronen.dk/2018/07/xamarin-and-java-processes.html)
+* [Loading a configuration file](https://johnthiriet.com/xamarin-loading-a-configuration-file/)
 
 ## Series of articles
 * [52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin)
