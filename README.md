@@ -13,6 +13,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
   - [MVVM](#mvvm)
   - [Security](#security)
   - [Performance](#performance)
+  - [Memory](#memory)
   - [Background services](#background-services)
   - [Bluetooth](#bluetooth)
   - [Media](#media)
@@ -67,6 +68,10 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Cross-Platform Performance](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/)
 * [Best Practices for Android Performance](https://developer.android.com/training/best-performance.html)
 * [Xamarin.Forms Performance on Android](https://jonathanpeppers.com/Blog/xamarin-forms-performance-on-android)
+
+### Memory
+* [Xamarin.iOS Memory Pitfalls](https://thomasbandt.com/xamarinios-memory-pitfalls)
+* [Optimize memory usage in Xamarin apps](https://www.chipsncookies.com/2017/optimize-memory-usage-in-xamarin-apps/)
 
 ### Background services
 * [Periodic background service with Xamarin](https://github.com/wcoder/PeriodicBackgroundService)
