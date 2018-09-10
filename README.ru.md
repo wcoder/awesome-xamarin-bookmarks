@@ -13,6 +13,9 @@
 ### Линковщик
 * [Использование линковщика в проектах Xamarin](https://xamdev.ru/linking-in-xamarin/)
 
+### Память
+* [Оптимизация использования памяти в Xamarin приложениях](https://habr.com/post/330854/)
+
 ## Блоги/переводы
 * [В помощь мобильному разработчику](https://xamdev.ru/)
 * [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
