@@ -78,6 +78,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### Bluetooth
 * [10 Tips About Bluetooth LE Development](http://www.xam-consulting.com/10-tips-about-bluetooth-le-development/)
+* [Backgrounding with Xamarin.Forms the Easy Way](https://winstongubantes.blogspot.com/2018/09/backgrounding-with-xamarinforms-easy-way.html)
 
 ### Media
 * [Delivering Rich Media Experiences with the Xamarin.Forms Video Player](https://blog.xamarin.com/delivering-rich-media-experiences-xamarin-forms-video-player/)
