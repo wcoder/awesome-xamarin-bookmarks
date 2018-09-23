@@ -16,6 +16,9 @@
 ### Память
 * [Оптимизация использования памяти в Xamarin приложениях](https://habr.com/post/330854/)
 
+### Фоновые задачи
+* [Фоновые задачи в Xamarin](https://xamdev.ru/background-task-xamarin/)
+
 ## Блоги/переводы
 * [В помощь мобильному разработчику](https://xamdev.ru/)
 * [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
