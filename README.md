@@ -163,6 +163,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [LiveXAML](http://www.livexaml.com/)
 * [Gorilla Player](http://gorillaplayer.com/)
 * [Xamarin Live Player](https://www.xamarin.com/live)
+* [XAMLator](https://github.com/ylatuya/XAMLator)
 
 ### UI Inspectors
 * [UI Sleuth](https://github.com/michaeled/uisleuth) - A Xamarin.Forms Inspector
