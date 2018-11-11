@@ -167,6 +167,7 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 
 ### UI Inspectors
 * [UI Sleuth](https://github.com/michaeled/uisleuth) - A Xamarin.Forms Inspector
+* [Sherlock for iOS](https://sherlock.inspiredcode.io/) - Edit views in real time, simulate running on other devices, and debug visual issues, all from your iOS Simulator - zero configuration required.
 
 ### Android Tools
 * [ADB Commands](https://medium.com/@filipe.batista/adb-commands-part-i-60d35e9d8515)
