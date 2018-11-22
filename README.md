@@ -1,5 +1,13 @@
 # awesome-xamarin-bookmarks
 
+# Moved to [Xamarin Universal Library](https://github.com/xamarinuniverse/XamarinUniversalLibrary)
+
+> The further contributing to this repository is stopped.
+
+&nbsp;&nbsp;&nbsp;
+
+---
+
 Hand-picked bookmarks of interesting (must have) links for Xamarin developers.
 
 Additional lists in other languages:  [Русский](/README.ru.md)
@@ -186,10 +194,6 @@ Additional lists in other languages:  [Русский](/README.ru.md)
 * [Xamarin Bindings](https://github.com/aloisdeniel/Xamarin.Bindings) - A list of existing Xamarin binding libraries.
 * [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents) - A list of open source components.
 * [Open Source Xamarin Apps](https://github.com/wcoder/open-source-xamarin-apps) - A list of open source Xamarin apps.
-
-## Contributing
-We are happy to receive Pull Requests adding a new link to the amazing material.
-* [How to Contribute](https://github.com/wcoder/awesome-xamarin-bookmarks/blob/master/CONTRIBUTING.md)
 
 ## License
 
